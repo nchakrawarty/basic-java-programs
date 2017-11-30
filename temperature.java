@@ -1,4 +1,4 @@
-lass fahtocel {
+class fahtocel {
 	public static void main(String[] felight) {
 	int fah=100;
 	double cel=(fah-32)*(5.0/9);
